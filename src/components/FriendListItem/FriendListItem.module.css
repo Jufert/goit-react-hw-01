@@ -1,0 +1,15 @@
+.friendListItemAvatar {
+  width: 90px;
+}
+
+.friendListItemName {
+  font-weight: 700;
+}
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}
